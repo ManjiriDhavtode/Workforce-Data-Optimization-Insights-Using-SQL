@@ -4,7 +4,7 @@ This SQL project, designed for a Data Analyst role, simulates a comprehensive da
 The GEMS database consists of interconnected tables (Departments, Employees, Projects, and EmployeeProjects) and demonstrates proficiency in database design, 
 data manipulation, and analysis using SQL.
 
-*Features:-*
+*Features*
 ------------
 Database Creation: Setting up a new database named GEMS with structured tables and relationships.
 Data Insertion: Populating tables with meaningful data for employees, departments, projects, and their assignments.
@@ -13,7 +13,7 @@ CRUD Operations: Demonstrating Create, Read, Update, and Delete operations for r
 Data Analysis: Performing aggregation and sorting to derive statistics like average salaries, total expenses, and departmental insights.
 Data Integrity: Enforcing referential integrity using foreign keys between related tables.
 
-*Database Structure:-*
+*Database Structure*
 ----------------------
 Tables:-
 Departments: Holds department IDs and names.
@@ -23,7 +23,7 @@ EmployeeProjects: Represents many-to-many relationships between employees and pr
 Key Queries and Use Cases
 
 
-Basic Data Retrieval:-
+Basic Data Retrieval
 ---------------------
 Retrieve all employee records:
 SELECT * FROM Employees;

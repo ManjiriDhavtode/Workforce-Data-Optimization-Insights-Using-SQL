@@ -82,12 +82,17 @@ WHERE Salary < (SELECT MAX(Salary) FROM Employees);
 *Skills Demonstrated*
 ---------------------
 Database Design: Normalized structure with primary and foreign keys to ensure data integrity.
+
 SQL Proficiency: Writing optimized queries for data retrieval, manipulation, and analysis.
+
 Data Analysis: Aggregation, filtering, and sorting to derive meaningful insights.
+
 Real-World Scenarios: Simulating operations like assigning employees to projects, managing departments, and handling payroll statistics.
 
 *Future Enhancements*
 ---------------------
 Visualization: Integrate with Python or Tableau for visual analytics.
+
 Data Expansion: Add more tables like Salaries or Promotions for deeper insights.
+
 Automated Reporting: Use SQL scripts for periodic business intelligence reporting.

@@ -65,7 +65,6 @@ WHERE NOT EXISTS (
 
 
 Find the second-highest salary in the company:
-----------------------------------------------
 SELECT MAX(Salary) AS SecondHighestSalary 
 FROM Employees 
 WHERE Salary < (SELECT MAX(Salary) FROM Employees);

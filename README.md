@@ -7,10 +7,15 @@ data manipulation, and analysis using SQL.
 *Features*
 ------------
 Database Creation: Setting up a new database named GEMS with structured tables and relationships.
+
 Data Insertion: Populating tables with meaningful data for employees, departments, projects, and their assignments.
+
 Data Retrieval: Writing queries to extract valuable insights, such as top-performing employees or project timelines.
+
 CRUD Operations: Demonstrating Create, Read, Update, and Delete operations for real-world data management.
+
 Data Analysis: Performing aggregation and sorting to derive statistics like average salaries, total expenses, and departmental insights.
+
 Data Integrity: Enforcing referential integrity using foreign keys between related tables.
 
 *Database Structure*

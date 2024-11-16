@@ -22,9 +22,13 @@ Data Integrity: Enforcing referential integrity using foreign keys between relat
 ----------------------
 Tables:-
 Departments: Holds department IDs and names.
+
 Employees: Contains employee details such as name, salary, department, and hire date.
+
 Projects: Tracks project information, including start and end dates.
+
 EmployeeProjects: Represents many-to-many relationships between employees and projects.
+
 Key Queries and Use Cases
 
 

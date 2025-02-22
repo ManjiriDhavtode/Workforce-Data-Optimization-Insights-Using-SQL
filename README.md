@@ -1,4 +1,4 @@
-*SQL Project: Employee and Project Management Database Overview*
+*SQL Project: Workforce Data Optimization \& Insights Using SQL*
 ------------------------------------------------------------------
 This SQL project, designed for a Data Analyst role, simulates a comprehensive database for managing employees, departments, and projects in an organization. 
 The GEMS database consists of interconnected tables (Departments, Employees, Projects, and EmployeeProjects) and demonstrates proficiency in database design, 
